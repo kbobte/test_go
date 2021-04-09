@@ -1,0 +1,16 @@
+name: Georgi
+birthday: 1989-05-20
+age: 31
+
+skills:
+  - PHP
+  - GOLANG
+
+currencies:
+  BGN: true
+  EUR: true
+  PLN: false
+
+male: true
+
+server_address: 127.0.0.1:82
